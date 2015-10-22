@@ -7,3 +7,5 @@
 ![alt tag](https://github.com/vdthatte/dailyUI_with_sketch/blob/master/dailyUI_day3.png)
 ##Day 4 (10/20/2015) - Calculator <br>
 ![alt tag](https://github.com/vdthatte/dailyUI_with_sketch/blob/master/day4.png)
+##Day 5 (10/21/2015) - App Icon <br>
+![alt tag](https://github.com/vdthatte/dailyUI_with_sketch/blob/master/day5.png)
