@@ -9,3 +9,6 @@
 ![alt tag](https://github.com/vdthatte/dailyUI_with_sketch/blob/master/day4.png)
 ##Day 5 (10/21/2015) - App Icon <br>
 ![alt tag](https://github.com/vdthatte/dailyUI_with_sketch/blob/master/day5.png)
+## Day 6 (10/22/2015) - User Profile <br>
+###replicating instagram profiles
+![alt tag](https://github.com/vdthatte/dailyUI_with_sketch/blob/master/day6.png)
